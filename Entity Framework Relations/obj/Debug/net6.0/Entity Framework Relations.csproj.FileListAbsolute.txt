@@ -1,0 +1,69 @@
+D:\Entity Framwork Basic to Advance\Entity Framework Relations\obj\Debug\net6.0\Entity Framework Relations.csproj.AssemblyReference.cache
+D:\Entity Framwork Basic to Advance\Entity Framework Relations\obj\Debug\net6.0\Entity Framework Relations.GeneratedMSBuildEditorConfig.editorconfig
+D:\Entity Framwork Basic to Advance\Entity Framework Relations\obj\Debug\net6.0\Entity Framework Relations.AssemblyInfoInputs.cache
+D:\Entity Framwork Basic to Advance\Entity Framework Relations\obj\Debug\net6.0\Entity Framework Relations.AssemblyInfo.cs
+D:\Entity Framwork Basic to Advance\Entity Framework Relations\obj\Debug\net6.0\Entity Framework Relations.csproj.CoreCompileInputs.cache
+D:\Entity Framwork Basic to Advance\Entity Framework Relations\bin\Debug\net6.0\Entity Framework Relations.exe
+D:\Entity Framwork Basic to Advance\Entity Framework Relations\bin\Debug\net6.0\Entity Framework Relations.deps.json
+D:\Entity Framwork Basic to Advance\Entity Framework Relations\bin\Debug\net6.0\Entity Framework Relations.runtimeconfig.json
+D:\Entity Framwork Basic to Advance\Entity Framework Relations\bin\Debug\net6.0\Entity Framework Relations.dll
+D:\Entity Framwork Basic to Advance\Entity Framework Relations\bin\Debug\net6.0\ref\Entity Framework Relations.dll
+D:\Entity Framwork Basic to Advance\Entity Framework Relations\bin\Debug\net6.0\Entity Framework Relations.pdb
+D:\Entity Framwork Basic to Advance\Entity Framework Relations\bin\Debug\net6.0\Humanizer.dll
+D:\Entity Framwork Basic to Advance\Entity Framework Relations\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Entity Framwork Basic to Advance\Entity Framework Relations\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Entity Framwork Basic to Advance\Entity Framework Relations\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Entity Framwork Basic to Advance\Entity Framework Relations\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Entity Framwork Basic to Advance\Entity Framework Relations\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Entity Framwork Basic to Advance\Entity Framework Relations\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Entity Framwork Basic to Advance\Entity Framework Relations\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Entity Framwork Basic to Advance\Entity Framework Relations\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Entity Framwork Basic to Advance\Entity Framework Relations\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\Entity Framwork Basic to Advance\Entity Framework Relations\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Entity Framwork Basic to Advance\Entity Framework Relations\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\Entity Framwork Basic to Advance\Entity Framework Relations\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Entity Framwork Basic to Advance\Entity Framework Relations\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+D:\Entity Framwork Basic to Advance\Entity Framework Relations\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Entity Framwork Basic to Advance\Entity Framework Relations\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Entity Framwork Basic to Advance\Entity Framework Relations\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Entity Framwork Basic to Advance\Entity Framework Relations\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Entity Framwork Basic to Advance\Entity Framework Relations\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Entity Framwork Basic to Advance\Entity Framework Relations\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Entity Framwork Basic to Advance\Entity Framework Relations\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Entity Framwork Basic to Advance\Entity Framework Relations\bin\Debug\net6.0\Microsoft.Extensions.Logging.Configuration.dll
+D:\Entity Framwork Basic to Advance\Entity Framework Relations\bin\Debug\net6.0\Microsoft.Extensions.Logging.Console.dll
+D:\Entity Framwork Basic to Advance\Entity Framework Relations\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Entity Framwork Basic to Advance\Entity Framework Relations\bin\Debug\net6.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Entity Framwork Basic to Advance\Entity Framework Relations\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Entity Framwork Basic to Advance\Entity Framework Relations\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Entity Framwork Basic to Advance\Entity Framework Relations\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Entity Framwork Basic to Advance\Entity Framework Relations\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Entity Framwork Basic to Advance\Entity Framework Relations\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Entity Framwork Basic to Advance\Entity Framework Relations\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Entity Framwork Basic to Advance\Entity Framework Relations\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Entity Framwork Basic to Advance\Entity Framework Relations\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Entity Framwork Basic to Advance\Entity Framework Relations\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Entity Framwork Basic to Advance\Entity Framework Relations\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Entity Framwork Basic to Advance\Entity Framework Relations\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Entity Framwork Basic to Advance\Entity Framework Relations\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Entity Framwork Basic to Advance\Entity Framework Relations\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Entity Framwork Basic to Advance\Entity Framework Relations\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Entity Framwork Basic to Advance\Entity Framework Relations\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Entity Framwork Basic to Advance\Entity Framework Relations\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Entity Framwork Basic to Advance\Entity Framework Relations\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Entity Framwork Basic to Advance\Entity Framework Relations\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Entity Framwork Basic to Advance\Entity Framework Relations\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Entity Framwork Basic to Advance\Entity Framework Relations\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Entity Framwork Basic to Advance\Entity Framework Relations\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Entity Framwork Basic to Advance\Entity Framework Relations\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Entity Framwork Basic to Advance\Entity Framework Relations\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Entity Framwork Basic to Advance\Entity Framework Relations\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Entity Framwork Basic to Advance\Entity Framework Relations\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Entity Framwork Basic to Advance\Entity Framework Relations\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Entity Framwork Basic to Advance\Entity Framework Relations\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Entity Framwork Basic to Advance\Entity Framework Relations\obj\Debug\net6.0\Entity Framework Relations.csproj.CopyComplete
+D:\Entity Framwork Basic to Advance\Entity Framework Relations\obj\Debug\net6.0\Entity Framework Relations.dll
+D:\Entity Framwork Basic to Advance\Entity Framework Relations\obj\Debug\net6.0\ref\Entity Framework Relations.dll
+D:\Entity Framwork Basic to Advance\Entity Framework Relations\obj\Debug\net6.0\Entity Framework Relations.pdb
+D:\Entity Framwork Basic to Advance\Entity Framework Relations\obj\Debug\net6.0\Entity Framework Relations.genruntimeconfig.cache
+D:\Entity Framwork Basic to Advance\Entity Framework Relations\bin\Debug\net6.0\appsettings.json
